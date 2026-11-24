@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "The office printer only jams when I'm already late, printing one page like it's defusing a bomb, then flashing PAPER JAM for a tray that's emptier than my motivation on Monday. I feed it paper, it eats my dignity. We don't have a printer. We have a toll booth that charges in panic.";
+  "The office printer can smell a deadline. Calm all week, it waits until I'm late, prints one page like it's defusing a bomb, then screams PAPER JAM at an empty tray. I add paper. It jams harder, out of spite. It's not a printer. It's a toll booth, and the toll is my last nerve.";
 
 const MAX_CHARS = 400;
 
